@@ -3,7 +3,7 @@
 
 It was created just for fun to play around with google mediapipe library and to get feet wet in the field of opencv.
 
-YouTube link: [![Video Name](https://example.com/thumbnail_image.png)](https://www.youtube.com/watch?v=mIOgdl4rl0E)
+YouTube link: [![Video Name](https://i.gifer.com/5ARz.gif)](https://www.youtube.com/watch?v=mIOgdl4rl0E)
 
 
 

@@ -3,8 +3,6 @@
 
 It was created just for fun to play around with google mediapipe library and to get feet wet in the field of opencv.
 
-YouTube link: <video width="320" height="240" controls>
-    <source src="(https://www.youtube.com/watch?v=mIOgdl4rl0E)" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+YouTube link: <iframe width="560" height="315" src="https://www.youtube.com/embed/mIOgdl4rl0E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 

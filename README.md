@@ -1,5 +1,6 @@
-# Minor-Opencv-Project
-# Title: Hand-detection using OpenCV(mediapipe library)
+### `Minor-Opencv-Project`
+
+### Title: ``Hand-detection using OpenCV(mediapipe library)``
 
 **It was a weekend type project just for fun to play around with google mediapipe library and to get feet wet in the field of opencv.**
 
